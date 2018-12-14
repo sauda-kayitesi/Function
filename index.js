@@ -16,5 +16,5 @@ function myFuction1()
     console.log("Scalene triangle");
     }
     else{
-    alert("Not triangle");
+    alert("Not triangle")
     }
