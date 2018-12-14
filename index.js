@@ -1,7 +1,7 @@
 function myFuction1()
-    var fisrtSide=document.getElementById("fisrtSide1")   .value;
-    var secondSide=document.getElementById("secondSide2") .value;
-    var thirdSide=document.getElementById("thirdtSide3")  .value;
+    var Side1=document.getElementById("Side1")   .value;
+    var Side2=document.getElementById("Side2") .value;
+    var Side3=document.getElementById("Side3")  .value;
 
       if (fisrtSide===secondSide&&fisrtSide===thirdSide&&secondSide===thirdSide){
      }alert("Equilateral triangle");
