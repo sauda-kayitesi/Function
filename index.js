@@ -1,20 +1,10 @@
 function myFuction1(){
-    var fisrtSide=document.getElementById("fisrtSide").value;
-    alert(fisrtSide);
-}
-
-
-    var secondSide=document.getElementById("secondSide").value;
-    alert(secondSide);
-}
-
-    var thirdSide=document.getElementById("thirdtSide").value;
-    alert(thirdtSide);
-}
-if(trianhle(4,6,9)){
-    if(is Scalere(4,6,9)){
-        alert("Scalere");
-    }
-}else if(is Equilateral(4,6,9)){
-    alert("equilateral")
+    var fisrtSide=document.getElementById("fisrtSide1")   .value;
+    var secondSide=document.getElementById("secondSide2") .value;
+    var thirdSide=document.getElementById("thirdtSide3")  .value;
+if (fisrtSide==secondSide&&fisrtSide==thirdSide&&secondSide==thirdSide){
+}alert("Equilateral triangle");
+console.log("Equilateral");
+else if ("fisrtSide==secondeSide||firstSide==thirdSide||secondSide==thirdSide"){
+    alert("Isoceles triangle");
 }
