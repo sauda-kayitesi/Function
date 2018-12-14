@@ -7,7 +7,7 @@ function myFuction1()
      }alert("Equilateral triangle");
      console.log("Equilateral");
     }
-    else if("fisrtSide==secondeSide||firstSide==thirdSide||secondSide==thirdSide"){
+    else if("Side1===Side2||Side1===Side3||Side2===Side3"){
     alert("Isosceles triangle");
     console.log("Isosceles triangle");
     }
