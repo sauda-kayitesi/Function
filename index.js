@@ -8,8 +8,8 @@ if (fisrtSide===secondSide&&fisrtSide===thirdSide&&secondSide===thirdSide){
 console.log("Equilateral");
 
 else if("fisrtSide==secondeSide||firstSide==thirdSide||secondSide==thirdSide"){
-    alert("Isoceles triangle");
-    console.log("Isoceles triangle");
+    alert("Isosceles triangle");
+    console.log("Isosceles triangle");
 }
 else if(fisrtSide+secondSide>thirdSide&&fisrtSide+thirdSide>secondSide&&secondSide+thirdSide>fisrtSide){
     alert("scalene triangle");
