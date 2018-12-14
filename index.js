@@ -1,18 +1,15 @@
 function myFuction1(){
-    var fisrtSide=document.getElementById("myNumber4").value;
+    var fisrtSide=document.getElementById("fisrtSide").value;
     alert(fisrtSide);
 }
 
-function myFuction2(){
-    var secondSide=document.getElementById("myNumber6").value;
+
+    var secondSide=document.getElementById("secondSide").value;
     alert(secondSide);
 }
-function myFuction3(){
-    var thirdSide=document.getElementById("myNumber9").value;
+
+    var thirdSide=document.getElementById("thirdtSide").value;
     alert(thirdtSide);
-
-
-
 }
 if(trianhle(4,6,9)){
     if(is Scalere(4,6,9)){
