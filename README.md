@@ -7,3 +7,5 @@ This is a type of triangle i have  created
     To open this  project  you must have a web-browser.
    ## license 
    This progect is protected  under terms of MIT license.
+   ## copyright
+   @2018
