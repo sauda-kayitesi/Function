@@ -12,10 +12,11 @@ function myFuction3(){
     alert(thirdtSide);
 }
 
-if(trianhle(4,6,9)){
-    if(is Scalere(4,6,9)){
-        alert("Scalere");
+i
     }
 }else if(is Equilateral(4,6,9)){
     alert("equilateral")
 }
+f(trianhle(4,6,9)){
+    if(is Scalere(4,6,9)){
+        alert("Scalere");
