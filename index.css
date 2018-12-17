@@ -1,9 +1,5 @@
-img{
-    display-flex:left;
-}
 
 body{
- background-image:URL(https://www.pexels.com/photo/close-up-of-wooden-plank-326311/);
- border:black;
- background-color:black;
+ background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3JxPi3MUwnhYEoYM5p00VE6xtSre8WAfX3O8oF96NED9e-N_");
+ border:solid black 14px;
 }
