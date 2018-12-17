@@ -1,6 +1,6 @@
 ## Project name:TRIANGLE TRUCKER
 
-I have creat three difference of triangle.
+I have creat three difference type of triangle.
 
    #### SAUDA
    is the one who have  creat this website.
