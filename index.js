@@ -1,8 +1,8 @@
 f
     function myFuction1(){
-     var Side1=parseInter(document.getElementById("Side1").value);
-     var Side2=parseInter(document.getElementById("Side2").value);
-     var Side3=parseInter(document.getElementById("Side3") .value);
+     var Side1=parseInter(document.getElementById("length1").value);
+     var Side2=parseInter(document.getElementById("length2").value);
+     var Side3=parseInter(document.getElementById("length3").value);
 
       if (Side1===Side2&&Side1===Side3&&Side2===Side3){
      alert("Equilateral triangle");
