@@ -10,7 +10,9 @@ I have creat three difference type of triangle.
    This project i have done it with  curiosity  to see how far I'm in creating myself website.
 
  ## Project setup instructions
-##BDD
+
+ ## BDD
+
  Behavior                                                         | Input     |  Output      |
 | :----------------------------------------------------------------| :--------:| -----------: |
 | when i put in 3 equal numbers it will say equilateral            | 9,9,9  |    Equilateral  |
