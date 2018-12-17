@@ -3,3 +3,9 @@ body{
  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3JxPi3MUwnhYEoYM5p00VE6xtSre8WAfX3O8oF96NED9e-N_");
  border:solid black 14px;
 }
+h1{
+ background-color: aqua;
+}
+ol li {
+text-decoration-color:aqua;
+}
