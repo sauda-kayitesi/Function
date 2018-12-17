@@ -19,11 +19,10 @@ I have creat three difference type of triangle.
  ## copyright
    @2018
  ##BDD
- here i explain  the behavior of each triangle.
-    input                     output
-    if all sides are equal
-   5,5,5                      equilateral
-   5,5,7                      isoscele
-   3,5,7                      sclene
-   3,5,b,                     not a triangle
-    
+ Behavior                                                         | Input     |  Output      |
+| :----------------------------------------------------------------| :--------:| -----------: |
+| when i put in 3 equal numbers it will say equilateral            | 9,9,9  |    Equilateral  |
+| when i put in 2 equal numbers it will say  isosceles             | 12,12,21 |  Isosceles   |
+| when i put in 3 different numbers it will say scalene            | 3,4,2  | Scalene      |
+| when two parts are less than other part it will say Triangle     | 9,4,3 | No Triangle     |
+   

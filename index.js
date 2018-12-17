@@ -1,8 +1,8 @@
-f
-    function myFuction1(){
-     var Side1=parseInter(document.getElementById("length1").value);
-     var Side2=parseInter(document.getElementById("length2").value);
-     var Side3=parseInter(document.getElementById("length3").value);
+
+    function myFuction(){
+     var Side1=parseInter(document.getElementById("side1").value);
+     var Side2=parseInter(document.getElementById("side2").value);
+     var Side3=parseInter(document.getElementById("side3").value);
 
       if (Side1===Side2&&Side1===Side3&&Side2===Side3){
      alert("Equilateral triangle");
@@ -10,13 +10,14 @@ f
     
      else if(Side1===Side2||Side1===Side3||Side2===Side3){
     alert("Isosceles triangle");
-}
+    }
     
-    else if(fisrtSide+secondSide>thirdSide&&fisrtSide+thirdSide>secondSide&&secondSide+thirdSide>fisrtSide){
+    else if(Side1+Side2>Side3&&Side1+Side3>Side2&&Side2+Side3>
+        
+        Side1){
     alert("scalene triangle");
-}
+    }
     
     else{
     alert("Not triangle")
     }
-}
