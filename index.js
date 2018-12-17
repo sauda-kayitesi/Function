@@ -5,13 +5,16 @@ f
      var Side3=parseInter(document.getElementById("Side3") .value);
 
       if (Side1===Side2&&Side1===Side3&&Side2===Side3){
-     alert("Equilateral triangle");}
+     alert("Equilateral triangle");
+    }
     
      else if(Side1===Side2||Side1===Side3||Side2===Side3){
-    alert("Isosceles triangle");}
+    alert("Isosceles triangle");
+}
     
     else if(fisrtSide+secondSide>thirdSide&&fisrtSide+thirdSide>secondSide&&secondSide+thirdSide>fisrtSide){
-    alert("scalene triangle");}
+    alert("scalene triangle");
+}
     
     else{
     alert("Not triangle")
