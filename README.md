@@ -1,7 +1,8 @@
-Triangle
+## Project name:TRIANGLE TRUCKER
+
 This is a type of triangle i have  created
    #### SAUDA
-   
+
    #### Description
 
    This project i have done it with  curiosity  to see how far I'm in creating myself website.
